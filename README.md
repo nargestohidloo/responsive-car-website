@@ -26,6 +26,7 @@ This project focuses on creating a clean user interface, smooth responsiveness, 
 <img width="1902" height="773" alt="Screenshot 2026-07-05 150712" src="https://github.com/user-attachments/assets/1913963b-28f6-49b8-a424-83c852574aad" />
 <img width="1903" height="912" alt="Screenshot 2026-07-05 151225" src="https://github.com/user-attachments/assets/5c98a485-6331-4c05-8ff0-296b8161e721" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
