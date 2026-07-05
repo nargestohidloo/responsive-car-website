@@ -32,7 +32,6 @@ This project focuses on creating a clean user interface, smooth responsiveness, 
 
 - HTML5
 - CSS3
-- JavaScript
 - Tailwind CSS
 
 ---
