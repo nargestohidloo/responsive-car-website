@@ -37,7 +37,7 @@ This project focuses on creating a clean user interface, smooth responsiveness, 
 
 ## 🌐 Live Demo
 
-🔗 **https://nargestohidloo.github.io/car-responsive-site/**
+🔗 **https://nargestohidloo.github.io/responsive-car-website/**
 
 ---
 
